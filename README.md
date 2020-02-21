@@ -9,4 +9,4 @@ a function to clean user input, so you can save it in your database minimizing t
 
 cualquier mejora / intento de romper es bienvenido
 
-any improvement or break attemp is welcome
+any improvement or break attempt is welcome
