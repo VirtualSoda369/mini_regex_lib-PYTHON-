@@ -8,4 +8,5 @@ para evitar inyecciones (o por lo menos tratar de evitarlas)
 a function to clean user input, so you can save it in your database minimizing the risk of an injection
 
 cualquier mejora / intento de romper es bienvenido
+
 any improvement or break attemp is welcome
